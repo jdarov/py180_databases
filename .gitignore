@@ -40,6 +40,10 @@ __pycache__/
 .stylelintrc.yaml
 .stylelintrc.yml
 .stylelintcache
+.htmlhintrc
+.render.yaml
+.stylelintignore
+
 
 # Ignore all HTML files (be sure you really want this)
 *.html
